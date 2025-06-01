@@ -1,5 +1,5 @@
 //
-// Assignment for Data Structures and Algorithm
+// Activity 3 for Data Structures and Algorithm
 // A program to help a local restaurant automate its breakfast billing system
 //
 
